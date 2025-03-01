@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stationery5</string>
+        <string name="name_hint">Name</string>
+        <string name="email_hint">Email</string>
+        <string name="phone_hint">Phone</string>
+        <string name="submit_button_text">Google</string>
+    </resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434169821139",
+    "project_id": "stationery5-96e17",
+    "storage_bucket": "stationery5-96e17.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434169821139:android:7ed0267f87df346e686126",
+        "android_client_info": {
+          "package_name": "com.webshlok.stationery5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDb9hqrjgY-j_NXr7f6I4spNJPfRGXpEtU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
